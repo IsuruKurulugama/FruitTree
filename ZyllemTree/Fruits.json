@@ -1,0 +1,46 @@
+﻿{
+  "FruitTree": [
+    {
+      "Fruites": [],
+      "Branch": [ { "Branch": [] } ]
+    },
+    {
+      "Fruites": [ "Apple" ],
+      "Branch": []
+    },
+    {
+      "Fruites": [],
+      "Branch": [ { "Branch": [] } ]
+    },
+    {
+      "Fruites": [ "Orange", "Orange", "Orange" ],
+      "Branch": []
+    },
+    {
+      "Fruites": [],
+      "Branch": [
+        {
+          "Fruites": ["Apple","Orange"],
+          "Branch": [ ]
+        },
+        {
+          "Fruites": [ ],
+          "Branch": [
+            {
+              "Fruites": [ "Apple" ],
+              "Branch": []
+            },
+            {
+              "Fruites": [ "Orange", "Apple", "Orange" ],
+              "Branch": []
+            }
+          ]
+        },
+        {
+          "Fruites": [ "Orange" ],
+          "Branch": []
+        }
+      ]
+    }
+  ]
+}

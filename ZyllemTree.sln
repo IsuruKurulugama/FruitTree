@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZyllemTree", "ZyllemTree\ZyllemTree.csproj", "{1FEA70FB-3FEB-43B2-A7D6-EA02823FF620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FEA70FB-3FEB-43B2-A7D6-EA02823FF620}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1FEA70FB-3FEB-43B2-A7D6-EA02823FF620}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1FEA70FB-3FEB-43B2-A7D6-EA02823FF620}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1FEA70FB-3FEB-43B2-A7D6-EA02823FF620}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
